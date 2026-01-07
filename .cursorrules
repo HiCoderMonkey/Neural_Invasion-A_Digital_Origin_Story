@@ -1,0 +1,10 @@
+# Cursor 项目规则
+
+## 运行项目代码之前需要先激活虚拟环境
+```bash
+source .venv/bin/activate
+```
+## 执行脚本时也需要先激活虚拟环境
+```bash
+source .venv/bin/activate
+```
